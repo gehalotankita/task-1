@@ -1,0 +1,11 @@
+{
+  "name": "task-1",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
